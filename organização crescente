@@ -1,0 +1,15 @@
+vetor = []
+for i in range(10):
+  numero = int(input())
+  vetor.append(numero)
+  vetor.sort()
+print(vetor[0])
+print(vetor[1])
+print(vetor[2])
+print(vetor[3])
+print(vetor[4])
+print(vetor[5])
+print(vetor[6])
+print(vetor[7])
+print(vetor[8])
+print(vetor[9])
